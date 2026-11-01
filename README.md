@@ -1,1 +1,0 @@
-# Is-stereotype-preference-in-language-models-universal-
